@@ -25,7 +25,7 @@ import { CheckoutComponent } from './checkout/checkout.component';
     ProductDetailsComponent,
     CartStatusComponent,
     CartDetailsComponent,
-    CheckoutComponent
+    CheckoutComponent,
   ],
   imports: [
     BrowserModule,
